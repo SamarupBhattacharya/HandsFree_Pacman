@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/empty.png</file>
+        <file>assets/map.txt</file>
+        <file>assets/pellet.png</file>
+        <file>assets/wall.png</file>
+        <file>assets/bg_music.mp3</file>
+        <file>assets/game_over.wav</file>
+        <file>assets/pallet.wav</file>
+        <file>assets/power_pellet.wav</file>
+        <file>assets/power_pellet.png</file>
+    </qresource>
+</RCC>

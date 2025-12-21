@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/empty.png</file>
+        <file>assets/map.txt</file>
+        <file>assets/pellet.png</file>
+        <file>assets/wall.png</file>
+        <file>assets/bg_music.mp3</file>
+        <file>assets/game_over.wav</file>
+        <file>assets/pallet.wav</file>
+        <file>assets/power_pellet.wav</file>
+        <file>assets/power_pellet.png</file>
+        <file>assets/pixel_empty.png</file>
+        <file>assets/pixel_pellet.png</file>
+        <file>assets/pixel_power_pellet.png</file>
+        <file>assets/pixel_wall.png</file>
+        <file>assets/game_over_screen.png</file>
+        <file>assets/pacman_chomp.wav</file>
+        <file>assets/pacman_death.wav</file>
+        <file>assets/pacman_eatfruit.wav</file>
+        <file>assets/pacman_eatghost.wav</file>
+        <file>assets/intro_screen.png</file>
+        <file>assets/win.png</file>
+    </qresource>
+</RCC>
