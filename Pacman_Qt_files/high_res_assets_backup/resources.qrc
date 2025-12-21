@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wall.png</file>
+        <file>empty.png</file>
+        <file>pellet.png</file>
+        <file>power_pellet.png</file>
+        <file>map.txt</file>
+    </qresource>
+</RCC>
