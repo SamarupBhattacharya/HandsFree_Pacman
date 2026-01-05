@@ -1,5 +1,5 @@
 # HandsFree_Pacman
-Welcome to the **JU_Man** game!\\
+Welcome to the **JU_Man** game!//
 We designed this game with accessibility as our North Star. Beyond mere entertainment, this project explores the intersection of human-computer interaction and medical rehabilitation.
 
 Recent clinical research into "Gamified Rehabilitation" has shown that controlled, repetitive head movements—identical to those used in this game—can serve as an effective form of physiotherapy for patients suffering from partial paralysis or restricted mobility. By engaging in "Active Range of Motion" (AROM) exercises through gameplay, patients can improve neck muscle strength, enhance coordination, and increase cervical flexibility. The immersive nature of the game provides a "distraction therapy" effect, allowing patients to perform therapeutic movements for longer durations with higher engagement compared to traditional, repetitive clinical exercises. Studies suggest that such digital interventions facilitate neuroplasticity, helping the brain reorganize and strengthen neural pathways that may have been damaged by injury or stroke.
